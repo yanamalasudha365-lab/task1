@@ -185,7 +185,7 @@ console.log(21);
 console.log("Bachelor of Technology");
 
 
-// 5. ALERT() (5 Questions)
+// 5. ALERT() 
  
 
 // 1. Display "Welcome to JavaScript" using alert().
@@ -213,20 +213,20 @@ alert(qualification);
  
 
 // 1. Ask the user "What is your name?" using prompt() and print the answer in the console.
-let q1Name = prompt("What is your name?");
+let Name = prompt("What is your name?");
 console.log(q1Name);
 
 // 2. Ask the user "How old are you?" using prompt() and display the answer using alert().
-let q2Age = prompt("How old are you?");
+let Age = prompt("How old are you?");
 alert(q2Age);
 
 // 3. Ask the user for their qualification and print the answer in the console.
-let q3Qual = prompt("What is your qualification?");
+let Qual = prompt("What is your qualification?");
 console.log(q3Qual);
 
 // 4. Ask the user for their name and show the entered name in a popup.
-let q4Name = prompt("Enter your name:");
-alert(q4Name);
+let NAME = prompt("Enter your name:");
+alert(NAME);
 
 // 5. Ask the user for their age and print the entered age in the console.
 let q5Age = prompt("Enter your age:");
