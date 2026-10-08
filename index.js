@@ -214,23 +214,23 @@ alert(qualification);
 
 // 1. Ask the user "What is your name?" using prompt() and print the answer in the console.
 let Name = prompt("What is your name?");
-console.log(q1Name);
+console.log(Name);
 
 // 2. Ask the user "How old are you?" using prompt() and display the answer using alert().
 let Age = prompt("How old are you?");
-alert(q2Age);
+alert(Age);
 
 // 3. Ask the user for their qualification and print the answer in the console.
 let Qual = prompt("What is your qualification?");
-console.log(q3Qual);
+console.log(Qual);
 
 // 4. Ask the user for their name and show the entered name in a popup.
 let NAME = prompt("Enter your name:");
 alert(NAME);
 
 // 5. Ask the user for their age and print the entered age in the console.
-let q5Age = prompt("Enter your age:");
-console.log(q5Age);
+let AGE = prompt("Enter your age:");
+console.log(AGE);
 
 
  
