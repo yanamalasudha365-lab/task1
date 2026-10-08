@@ -58,54 +58,54 @@ console.log(project);
  
 
 // 1. Create a let variable called age and initialize it with your age. Print it.
-let letAge = 21;
-console.log(letAge);
+let age = 21;
+console.log(age);
 
 // 2. Create a let variable called salary, initialize it with 30000, then reassign it to 40000.
-let letSalary = 30000;
-letSalary = 40000;
-console.log(letSalary);
+let salary = 30000;
+salary = 40000;
+console.log(salary);
 
 // 3. Create a let variable called name, assign your name, then change it to another name.
-let letName = "Sai Sudha";
-letName = "Saisudha Yanamala";
-console.log(letName);
+let  name = "Sai Sudha";
+name = "Saisudha Yanamala";
+console.log(name);
 
 // 4. Create a let variable called department and change its value from "ECE" to "CSE".
-let letDepartment = "ECE";
-letDepartment = "CSE";
-console.log(letDepartment);
+let department = "ECE";
+department = "CSE";
+console.log( department);
 
 // 5. Create a let variable called mark, initialize it with 60, then reassign it to 90.
-let letMark = 60;
-letMark = 90;
-console.log(letMark);
+let  mark = 60;
+ mark = 90;
+console.log( mark);
 
 // 6. Declare a let variable without initialization. Later assign a value and print it.
-let letCity;
-letCity = "Chennai";
-console.log(letCity);
+let City;
+City = "Chennai";
+console.log(City);
 
 // 7. Try to redeclare the same let variable. Observe what happens.
-let letCountry = "India";
-// let letCountry = "USA"; // Uncaught SyntaxError: Identifier 'letCountry' has already been declared
+let Country = "India";
+// let Country = "USA"; // Uncaught SyntaxError: Identifier 'Country' has already been declared
 
 // 8. Create a let variable called city and reassign it two times. Print the final value.
-let letCity2 = "Chennai";
-letCity2 = "Bangalore";
-letCity2 = "Hyderabad";
-console.log(letCity2);
+let City2 = "Chennai";
+City2 = "Bangalore";
+City2 = "Hyderabad";
+console.log(City2);
 
 // 9. Create three different let variables and print all three.
-let letComp = "TCS";
-let letDept = "ECE";
-let letSal = 30000;
-console.log(letComp, letDept, letSal);
+let Comp = "TCS";
+let Dept = "ECE";
+let Sal = 30000;
+console.log(Comp, Dept, Sal);
 
 // 10. Create a let variable, initialize it, reassign it, and try to redeclare it.
-let letProj = "Project A";
-letProj = "Project B";
-// let letProj = "Project C"; // Uncaught SyntaxError: Identifier 'letProj' has already been declared
+let Proj = "Project A";
+Proj = "Project B";
+// let Proj = "Project C"; // Uncaught SyntaxError: Identifier 'letProj' has already been declared
 
 
  
