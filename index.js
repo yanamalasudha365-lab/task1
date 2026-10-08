@@ -113,34 +113,34 @@ letProj = "Project B";
  
 
 // 1. Create a const variable called age with value 25 and print it.
-const constAge = 25;
-console.log(constAge);
+const Age = 25;
+console.log(Age);
 
 // 2. Create a const variable called salary with value 50000 and print it.
-const constSalary = 50000;
-console.log(constSalary);
+const Salary = 50000;
+console.log(Salary);
 
 // 3. Create a const variable called company with "Stackly" and print it.
-const constCompany = "Stackly";
-console.log(constCompany);
+const Company = "Stackly";
+console.log(Company);
 
 // 4. Try to reassign a const variable with another value. Observe the result.
-const constAge2 = 25;
-// constAge2 = 30; // Uncaught TypeError: Assignment to constant variable.
+const Age2 = 25;
+// Age2 = 30; // Uncaught TypeError: Assignment to constant variable.
 
 // 5. Try to redeclare a const variable. Observe the result.
-const constSalary2 = 50000;
-// const constSalary2 = 60000; // Uncaught SyntaxError: Identifier 'constSalary2' has already been declared
+const Salary2 = 50000;
+// const Salary2 = 60000; // Uncaught SyntaxError: Identifier 'constSalary2' has already been declared
 
 // 6. Create a const variable called college and initialize it with your college name.
 const college = "Audisankara Institute of Technology";
 console.log(college);
 
 // 7. Create three const variables for name, age, and department. Print them.
-const constName3 = "Yanamala";
-const constAge3 = 21;
-const constDept3 = "CSE";
-console.log(constName3, constAge3, constDept3);
+const Name3 = "Yanamala";
+const Age3 = 21;
+const Dept3 = "CSE";
+console.log( Name3,  Age3, Dept3);
 
 // 8. Write a program using one var, one let, and one const variable. Print all three.
 var mixName = "Sree";
