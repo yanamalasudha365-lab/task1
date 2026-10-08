@@ -1,6 +1,6 @@
-  // ==========================================
-// 1. VAR QUESTIONS (10 Questions)
-// ==========================================
+  
+// 1. VAR QUESTIONS 
+ 
 
 // 1. Create a var variable called name and initialize it with your name. Print it.
 var name = "Sudha Yanamala";
@@ -53,10 +53,9 @@ project = "Project B";
 project = "Project C";
 console.log(project);
 
-
-// ==========================================
-// 2. LET QUESTIONS (10 Questions)
-// ==========================================
+ 
+// 2. LET QUESTIONS  
+ 
 
 // 1. Create a let variable called age and initialize it with your age. Print it.
 let letAge = 21;
@@ -109,9 +108,9 @@ letProj = "Project B";
 // let letProj = "Project C"; // Uncaught SyntaxError: Identifier 'letProj' has already been declared
 
 
-// ==========================================
-// 3. CONST QUESTIONS (8 Questions)
-// ==========================================
+ 
+// 3. CONST QUESTIONS  
+ 
 
 // 1. Create a const variable called age with value 25 and print it.
 const constAge = 25;
@@ -150,9 +149,9 @@ const mixDept = "CSE";
 console.log(mixName, mixAge, mixDept);
 
 
-// ==========================================
-// 4. PRINTING STATEMENTS (7 Questions)
-// ==========================================
+ 
+// 4. PRINTING STATEMENTS  
+ 
 
 // 1. Print your name using console.log().
 console.log("Sudha");
@@ -186,9 +185,8 @@ console.log(21);
 console.log("Bachelor of Technology");
 
 
-// ==========================================
 // 5. ALERT() (5 Questions)
-// ==========================================
+ 
 
 // 1. Display "Welcome to JavaScript" using alert().
 alert("Welcome to JavaScript");
@@ -210,9 +208,9 @@ let qualification = "Bachelor of Technology";
 alert(qualification);
 
 
-// ==========================================
-// 6. PROMPT() (5 Questions)
-// ==========================================
+ 
+// 6. PROMPT()  
+ 
 
 // 1. Ask the user "What is your name?" using prompt() and print the answer in the console.
 let q1Name = prompt("What is your name?");
@@ -235,9 +233,9 @@ let q5Age = prompt("Enter your age:");
 console.log(q5Age);
 
 
-// ==========================================
-// 7. CONFIRM() & DOCUMENT.WRITELN() (3 Questions)
-// ==========================================
+ 
+// 7. CONFIRM() & DOCUMENT.WRITELN() 
+ 
 
 // 1. Create a confirmation box asking "Do you know programming?".
 let knowProgramming = confirm("Do you know programming?");
@@ -252,9 +250,9 @@ let wantToContinue = confirm("Do you want to continue?");
 console.log("Continue choice:", wantToContinue);
 
 
-// ==========================================
-// 8. CONSOLE METHODS (2 Questions)
-// ==========================================
+ 
+// 8. CONSOLE METHODS  
+ 
 
 // 1. Write one program that uses console.log(), console.warn(), and console.error() to display three different messages.
 console.log("This is an informational log message.");
